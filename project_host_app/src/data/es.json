@@ -1,0 +1,9 @@
+{
+    "title": "Bienvenido al Proyecto Host",
+    "movieOne":"Harry Potter",
+    "movieTwo":"El señor de los anillos",
+    "spinner":"Aca se mostrara el microfrontend",
+    "footer":"Derechos de autor",
+    "notFoundTitle":"404 - No existe",
+    "notFoundMessage":"Perdon, la pagina que estas buscando no existe"
+}

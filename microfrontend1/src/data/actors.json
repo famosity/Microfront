@@ -1,0 +1,37 @@
+[
+  {
+    "idActor":1,
+    "personaje": "Harry Potter",
+    "name": "Daniel Radcliffe"
+  },
+  {
+    "idActor":2,
+    "personaje": "Hermione Granger",
+    "name": "Emma Watson"
+  },
+  {
+    "idActor":3,
+    "personaje": "Ron Weasley",
+    "name": "Rupert Grint"
+  },
+  {
+    "idActor":4,
+    "personaje": "Albus Dumbledore",
+    "name": "Richard Harris"
+  },
+  {
+    "idActor":5,
+    "personaje": "Albus Dumbledore",
+    "name": "Michael Gambon"
+  },
+  {
+    "idActor":6,
+    "personaje": "Severus Snape",
+    "name": "Alan Rickman"
+  },
+  {
+    "idActor":7,
+    "personaje": "Lord Voldemort",
+    "name": "Ralph Fiennes"
+  }
+]

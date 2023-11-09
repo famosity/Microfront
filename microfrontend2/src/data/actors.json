@@ -1,0 +1,52 @@
+[
+  {
+    "idActor": 1,
+    "personaje": "Frodo Bolsón",
+    "name": "Elijah Wood"
+  },
+  {
+    "idActor": 2,
+    "personaje": "Sam Gamyi",
+    "name": "Sean Astin"
+  },
+  {
+    "idActor": 3,
+    "personaje": "Aragorn",
+    "name": "Viggo Mortensen"
+  },
+  {
+    "idActor": 4,
+    "personaje": "Legolas",
+    "name": "Orlando Bloom"
+  },
+  {
+    "idActor": 5,
+    "personaje": "Gimli",
+    "name": "John Rhys-Davies"
+  },
+  {
+    "idActor": 6,
+    "personaje": "Gandalf el Gris",
+    "name": "Ian McKellen"
+  },
+  {
+    "idActor": 7,
+    "personaje": "Boromir",
+    "name": "Sean Bean"
+  },
+  {
+    "idActor": 8,
+    "personaje": "Merry",
+    "name": "Dominic Monaghan"
+  },
+  {
+    "idActor": 9,
+    "personaje": "Pippin",
+    "name": "Billy Boyd"
+  },
+  {
+    "idActor": 10,
+    "personaje": "Arwen",
+    "name": "Liv Tyler"
+  }
+]
