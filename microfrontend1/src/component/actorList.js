@@ -6,13 +6,13 @@ import English from '../data/en.json';
 import Spanish from '../data/es.json';
 
 //img
-import Image1 from '../data/images/Alan-Rickman.jpg'
-import Image2 from '../data/images/Daniel-Radcliffe.jpg'
-import Image3 from '../data/images/Emma-Watson.jpg'
-import Image4 from '../data/images/Michael-Gambon.jpg'
-import Image5 from '../data/images/Ralph-Fiennes.jpg'
-import Image6 from '../data/images/Richard-Harris.jpg'
-import Image7 from '../data/images/Rupert-Grint.jpg'
+import Image1 from '../data/images/Daniel-Radcliffe.jpg'
+import Image2 from '../data/images/Emma-Watson.jpg'
+import Image3 from '../data/images/Rupert-Grint.jpg'
+import Image4 from '../data/images/Richard-Harris.jpg'
+import Image5 from '../data/images/Michael-Gambon.jpg' 
+import Image6 from '../data/images/Alan-Rickman.jpg'
+import Image7 from '../data/images/Ralph-Fiennes.jpg'
 
 const images = [Image1, Image2, Image3, Image4, Image5, Image6, Image7];
 
