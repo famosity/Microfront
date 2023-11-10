@@ -22,7 +22,7 @@ const images=[Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8, Im
 const MovieList = ({language}) => {
 
   const languageSelect=(language==="English")?English:Espanish;
-  console.log(languageSelect)
+
   return (
     <div>
       <StyledH1>{languageSelect.title}</StyledH1>

@@ -4,7 +4,7 @@ import {LanguageSelectorContainer,LanguageLabel,LanguageSelect,LanguageOption} f
 const LanguageSelector = () => {
     const handleLanguageChange = (e) => {
       const selectedLanguage = e.target.value;
-      console.log("Selector language is:", selectedLanguage)
+      //aca puedo tomar el valor para guardar en el contexto
     };
   
     return (

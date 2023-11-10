@@ -1,27 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
-
-const NotFoundWrapper = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  background-color: #f0f0f0;
-`;
-
-const NotFoundTitle = styled.h1`
-  font-size: 48px;
-  color: #ff3f3f;
-  text-align: center;
-  margin-bottom: 20px;
-`;
-
-const NotFoundMessage = styled.p`
-  font-size: 24px;
-  color: #333;
-  text-align: center;
-`;
+import {NotFoundWrapper, NotFoundTitle, NotFoundMessage} from './style'
 
 const NotFound = () => {
   return (

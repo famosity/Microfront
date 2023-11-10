@@ -18,7 +18,7 @@ export const HostProvider = ({ children }) => {
     selectedMicroFront, 
     setSelectedMicroFront
   }
-  console.log('idMicrofront', selectedMicroFront)
+  
   return (
     <HostContext.Provider value={contextValue}>
       {children}
